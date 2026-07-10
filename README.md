@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Meenakshi%20Ravindran&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%C2%B7%20Building%20intelligent%2C%20real-world%20systems&descAlignY=58&descSize=18" />
 
 <a href="https://github.com/meenakshiravindran">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8E2DE2&center=true&vCenter=true&width=650&lines=Final-year+Integrated+M.Sc.+CS+%7C+AI%2FML+Specialization;ML+Pipelines+%E2%86%92+Deployment+%E2%86%92+Real-world+Impact;Turning+data+into+decisions+with+Python+%26+ML" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8E2DE2&center=true&vCenter=true&width=650&lines=  Final-year+Integrated+M.Sc.+CS+%7C+AI%2FML+Specialization;ML+Pipelines+%E2%86%92+Deployment+%E2%86%92+Real-world+Impact;Turning+data+into+decisions+with+Python+%26+ML" alt="Typing SVG" />
 </a>
 
 <p>
@@ -24,7 +24,7 @@
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
 
-- 🎓 &nbsp;  Final-year **Integrated M.Sc. Computer Science (AI/ML)** at Kannur University — **CGPA 9.2**
+- 🎓 &nbsp;Final-year **Integrated M.Sc. Computer Science (AI/ML)** at Kannur University — **CGPA 9.2**
 - 🤖 &nbsp;I build **end-to-end ML systems** — from pipelines in Colab to deployed apps
 - 🌱 &nbsp;Currently deepening **Deep Learning, NLP & MLOps**
 - 💼 &nbsp;ML Intern @ **Infosys Springboard** · AI/ML Intern @ **Edunet (IBM SkillsBuild)**
