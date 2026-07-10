@@ -24,7 +24,7 @@
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
 
-- 🎓 &nbsp;Final-year **Integrated M.Sc. Computer Science (AI/ML)** at Kannur University — **CGPA 9.2**
+- 🎓 &nbsp;  Final-year **Integrated M.Sc. Computer Science (AI/ML)** at Kannur University — **CGPA 9.2**
 - 🤖 &nbsp;I build **end-to-end ML systems** — from pipelines in Colab to deployed apps
 - 🌱 &nbsp;Currently deepening **Deep Learning, NLP & MLOps**
 - 💼 &nbsp;ML Intern @ **Infosys Springboard** · AI/ML Intern @ **Edunet (IBM SkillsBuild)**
